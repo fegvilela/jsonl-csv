@@ -1,2 +1,2 @@
 # jsonl-csv
-Jsonl to csv conventer 
+Jsonl to csv converter 
